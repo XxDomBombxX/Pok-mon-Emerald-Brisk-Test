@@ -9114,14 +9114,12 @@ Music: Male
 Double Battle: No
 AI: Basic Trainer
 
-SPECIES_VICTINI
+SPECIES_PIDGEY
 Level: 10
 IVs: 8 HP / 8 Atk / 8 Def / 8 SpA / 8 SpD / 8 Spe
 Nature: Hardy
-- MOVE_MYSTICAL_FIRE
-- MOVE_PSYCHIC
+Shiny: Yes
 - MOVE_QUICK_ATTACK
-- MOVE_CONFUSION
 
 === TRAINER_BILLY ===
 Name: BILLY
